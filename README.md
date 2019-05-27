@@ -1,5 +1,5 @@
 # serversocket
 
->> mvn install
+> mvn install
 
->> mvn spring-boot:run
+> mvn spring-boot:run
